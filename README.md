@@ -4,6 +4,10 @@ A single-page, no-install Valentine's ask. Fill in a short form, send the link (
 
 Everything runs in the browser. Nothing is uploaded to a server — your details live only in the link or the file you download.
 
+## Live site
+
+[Open Will you be my Valentine?](https://meshannawod.github.io/will-you-be-my-valentine/)
+
 ## How it works
 
 1. Open `valentine-fixed.html` in any browser.
