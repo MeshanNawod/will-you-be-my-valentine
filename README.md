@@ -1,6 +1,16 @@
-# Will you be my Valentine? 💌
+<div align="center">
 
-A single-page, no-install Valentine's ask. Fill in a short form, send the link (or the file) to someone special, and watch the **Yes** button grow every time they hesitate.
+# 💌 Will you be my Valentine?
+
+A single-page, no-install Valentine's ask. Fill in a short form, send the link, and watch the **Yes** button grow every time they hesitate.
+
+[![Live demo](https://img.shields.io/badge/Live_demo-Open_in_browser-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://meshannawod.github.io/will-you-be-my-valentine/)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
+
+<img src="docs/screenshot.png" alt="Valentine builder form" width="860">
+
+</div>
 
 Everything runs in the browser. Nothing is uploaded to a server — your details live only in the link or the file you download.
 
@@ -10,7 +20,7 @@ Everything runs in the browser. Nothing is uploaded to a server — your details
 
 ## How it works
 
-1. Open `valentine-fixed.html` in any browser.
+1. Open the [live site](https://meshannawod.github.io/will-you-be-my-valentine/) or `index.html` in any browser.
 2. Fill in the form and press **Create my link**.
 3. Share the link, or download the self-contained HTML file.
 4. They open it, press **No** a few times, then press **Yes**.
